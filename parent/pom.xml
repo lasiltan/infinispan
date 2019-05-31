@@ -178,7 +178,7 @@
       <version.maven.source>2.3</version.maven.source>
       <version.maven.genjavadoc>0.8</version.maven.genjavadoc>
       <version.maven.scala>2.15.2</version.maven.scala>
-      <version.maven.surefire>2.17</version.maven.surefire>
+      <version.maven.surefire>2.22.2</version.maven.surefire>
       <version.maven.invoker>1.8</version.maven.invoker>
       <version.metainf-services>1.5</version.metainf-services>
       <version.jacoco>0.5.10.201208310627</version.jacoco>
