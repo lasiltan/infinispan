@@ -62,7 +62,7 @@
       <version.protostream>3.0.1.Final</version.protostream>
       <version.aesh>0.33.14</version.aesh>
       <version.antlr>3.5.2</version.antlr>
-      <version.c3p0>0.9.5</version.c3p0>
+      <version.c3p0>0.9.5.4</version.c3p0>
       <version.commons.pool>1.6</version.commons.pool>
       <version.gnu.getopt>1.0.13</version.gnu.getopt>
       <version.hibernate.javax.persistence>1.0.0.Final</version.hibernate.javax.persistence>
