@@ -154,7 +154,7 @@
       <version.mc4j>1.2.6</version.mc4j>
       <version.mockito>1.9.5</version.mockito>
       <version.mockito_dep.objenesis>1.4</version.mockito_dep.objenesis>
-      <version.mysql.driver>5.1.19</version.mysql.driver>
+      <version.mysql.driver>8.0.16</version.mysql.driver>
       <version.org.jboss.naming>5.0.6.CR1</version.org.jboss.naming>
       <version.org.picketbox>4.0.20.Final</version.org.picketbox>
       <version.postgresql.driver>9.3-1101-jdbc41</version.postgresql.driver>
